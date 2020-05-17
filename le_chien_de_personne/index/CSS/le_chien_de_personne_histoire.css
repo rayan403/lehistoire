@@ -1,0 +1,105 @@
+body{
+	font-family: "comic sans ms";
+	margin-left: 25%;
+	margin-right: 25%;
+}
+h2{
+	font-size: 20px;
+	text-align: center;
+	text-decoration: underline rgb(134,94,255);
+	color: rgb(255,89,89);
+}
+a{
+	text-decoration-line: none;
+	color: blue;
+}
+h1{
+	font-size: 30px;
+	text-align: center;
+	text-decoration: underline rgb(134,94,255);
+	color: rgb(255,89,89);
+}
+p{
+    font-size: 30px;
+}
+article{
+	background-color: rgb(185,245,184);
+	border: 3px dashed rgb(134,94,255);
+	color: rgb(255,89,89);
+	padding-right: 6px;
+	padding-left: 6px;
+}
+nav{
+	margin-left: 50px;
+}
+.return{
+	border: 1px solid black;
+	padding: 7px;
+	background-color: rgb(159,162,159);
+}
+.return:hover{
+	background-color: rgb(102,117,189);
+	color: white;
+}
+.n1{
+	border: 1px solid black;
+	padding: 7px;
+	background-color: rgb(83,83,83);
+}
+.n1:hover{
+    background-color: rgb(102,117,189);
+	color: white;
+}
+.n2{
+	padding: 7px;
+	border: 1px solid black;
+	background-color: rgb(159,162,159);
+}
+.n2:hover{
+	background-color: rgb(102,117,189);
+	color: white;
+}
+.n3{
+	padding: 7px;
+	border: 1px solid black;
+	background-color: rgb(159,162,159);
+}
+.n3:hover{
+	background-color: rgb(102,117,189);
+	color: white;
+}
+.n4{
+	padding: 7px;
+	border: 1px solid black;
+	background-color: rgb(159,162,159);
+}
+.n4:hover{
+	background-color: rgb(102,117,189);
+	color: white;
+}
+.etc{
+	padding: 7px;
+	border: 1px solid black;
+	background-color: rgb(159,162,159);	
+}
+.etc:hover{
+    background-color: rgb(102,117,189);
+	color: white;	
+}
+.forword{
+	padding: 7px;
+	border: 1px solid black;
+	background-color: rgb(159,162,159);
+}
+.forword:hover{
+	background-color: rgb(102,117,189);
+	color: white;
+}
+.navigation{
+	margin-left: 15%;
+}
+footer{
+	background-color: rgb(60,60,60);
+	color: rgb(172,172,172);
+	padding-left: 90px;
+}

@@ -1,0 +1,83 @@
+body{
+	background-color: rgb(180,254,24);
+	font-family: "comic sans ms"
+}
+.contactez{
+	font-size: 30px;
+	border: 2px solid black;
+	padding: 3px;
+	background-color: rgb(159,162,159);
+}
+.contactez:hover{
+	background-color: rgb(102,117,189);
+	color: white;
+	box-shadow: 4px 3px 2px rgb(255,60,60);
+}
+.Facebook{
+	font-size: 30px;
+	border: 2px solid black;
+	margin-left: 100px;
+	padding: 3px;
+	background-color: rgb(159,162,159);
+}
+.Facebook:hover{
+	background-color: rgb(102,117,189);
+	color: white;
+	box-shadow: 4px 3px 2px rgb(255,60,60);
+}
+.Donate{
+    font-size: 30px;
+	border: 2px solid black;
+	margin-left: 100px;
+	padding: 3px;
+	background-color: rgb(159,162,159);
+}
+.Donate:hover{
+	background-color: rgb(102,117,189);
+	color: white;
+	box-shadow: 4px 3px 2px rgb(255,60,60);
+}
+.la_creation{
+	background-color: rgb(134,94,255);
+	border: 3px outset black; 
+	margin: 4px;
+}
+.images{
+	margin-right: 8px;
+	border: 7px solid black;
+}
+.creator{
+	text-align: center;
+	font-size: 30px;
+}
+p{
+	text-align: center;
+}
+.commencez{
+	margin-left: 25%;
+	height: 50%;
+	width: 50%;
+	background-color: rgb(134,94,255);
+	border: 3px outset black; 
+	font-size: 30px;
+	color: green;
+}
+.commencez:hover{
+	text-decoration-color: white;
+	background-color: rgb(102,117,189);
+	box-shadow: 4px 3px 2px rgb(255,60,60);
+}
+a{
+	text-decoration-line: none;
+	color: black;
+}
+.structure{
+	border: 1px dashed rgb(134,94,255);
+	background-color: rgb(159,162,159);
+	margin-bottom: 3px;
+}
+footer{
+	background-color: rgb(60,60,60);
+	color: rgb(172,172,172);
+	padding-left: 90px;
+}
